@@ -19,7 +19,7 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
     <li>Click on the "ga_sessions_" table to open it.</li>
   </ul>
 
-  <h1>IV. Exploring the dataset</h1>
+<h1>IV. Exploring the dataset</h1>
   In this project, I will write 08 queries in Bigquery base on Google Analytics dataset.<br>
   <br>
   <b>Query 01: Calculate total visit, pageview, transaction and revenue for January, February and march 2017 order by month</b><br>
@@ -27,10 +27,22 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
     <img width="829" alt="Screenshot 2025-05-08 at 16 16 05" src="https://github.com/user-attachments/assets/32142a54-d929-4973-b5c1-3f698437a28d" /><br>
     - Query results<br>
     <img width="830" alt="Screenshot 2025-05-08 at 16 16 11" src="https://github.com/user-attachments/assets/dbe64527-72ea-42d8-80e5-edec0bd920b7" /><br>
+    <br>
    <b>Query 02: Bounce rate per traffic source in July 2017<br>
-   - SQL code <br>
+   - SQL code<br>
    <img width="832" alt="Screenshot 2025-05-08 at 16 19 39" src="https://github.com/user-attachments/assets/677d5382-4cec-4955-a128-7a0f0b1ea6a1" /><br>
-   - Query results <br>
+   - Query results<br>
    <img width="830" alt="Screenshot 2025-05-08 at 16 19 47" src="https://github.com/user-attachments/assets/85387045-0ff9-4d45-b491-6a7de6f54cd3" /><br>
-
+    <br>
+    <b>Query 03: Revenue by traffic source by week, by month in June 2017<br>
+   - SQL code<br>
+   <img width="830" alt="Screenshot 2025-05-08 at 16 25 12" src="https://github.com/user-attachments/assets/3b5be772-fb56-44e2-9002-de735f098fe3" /><br>  
+   - Query results<br>
+   <img width="827" alt="Screenshot 2025-05-08 at 16 24 17" src="https://github.com/user-attachments/assets/7f9564a7-01ca-4460-aba3-5a3f59b41d28" /><br>
+    <br>
+  <b>Query 04: Average number of product pageviews by purchaser type ( purchasers vs non-purchasers) in June, July 2017<br>
+   - SQL code<br>
+  <img width="828" alt="Screenshot 2025-05-08 at 16 31 03" src="https://github.com/user-attachments/assets/d960b5ad-c9f4-4155-a4c3-8186bd631c79" /><br>
+   - Query results<br>
+  <img width="744" alt="Screenshot 2025-05-08 at 16 31 09" src="https://github.com/user-attachments/assets/bf8330ae-d148-40a0-a091-13a49ae3b329" /><br>
 
