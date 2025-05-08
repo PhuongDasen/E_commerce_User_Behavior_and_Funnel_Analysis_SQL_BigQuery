@@ -45,4 +45,10 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
   <img width="828" alt="Screenshot 2025-05-08 at 16 31 03" src="https://github.com/user-attachments/assets/d960b5ad-c9f4-4155-a4c3-8186bd631c79" /><br>
    - Query results<br>
   <img width="744" alt="Screenshot 2025-05-08 at 16 31 09" src="https://github.com/user-attachments/assets/bf8330ae-d148-40a0-a091-13a49ae3b329" /><br>
+ <br>
+ <b>Query 05: Average number of transactions per user that made a purchase in July 2017 <br>
+   - SQL code<br>
+  <img width="824" alt="Screenshot 2025-05-08 at 16 34 00" src="https://github.com/user-attachments/assets/e6c458ba-710a-4194-8190-d6dc2e7c47a4" /><br>
+   - Query results<br>
+  <img width="744" alt="Screenshot 2025-05-08 at 16 34 07" src="https://github.com/user-attachments/assets/0247dd63-ab36-4dcc-97be-6539d78f45ca" /><br>
 
