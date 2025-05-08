@@ -51,4 +51,17 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
   <img width="824" alt="Screenshot 2025-05-08 at 16 34 00" src="https://github.com/user-attachments/assets/e6c458ba-710a-4194-8190-d6dc2e7c47a4" /><br>
    - Query results<br>
   <img width="744" alt="Screenshot 2025-05-08 at 16 34 07" src="https://github.com/user-attachments/assets/0247dd63-ab36-4dcc-97be-6539d78f45ca" /><br>
+<br>
+<b>Query 06: Average amount of money spent per session. Only include purchaser data in July 2017 <br>
+   - SQL code<br>
+ <img width="820" alt="Screenshot 2025-05-08 at 16 39 06" src="https://github.com/user-attachments/assets/910a8720-f0bd-4250-a62e-7eb27e0c80de" /><br>
+   - Query results<br>
+  <img width="738" alt="Screenshot 2025-05-08 at 16 39 12" src="https://github.com/user-attachments/assets/a746fe20-6824-434c-9652-dc1ca57274d9" /><br>
+  <br>
+  <b>Query 07: Other products purchased by customers who purchased product "Youtube Men's Vinatge Henley" in July 2017. Output should show product name and the quantity was ordered. <br>
+   - SQL code<br>
+<img width="823" alt="Screenshot 2025-05-08 at 16 42 11" src="https://github.com/user-attachments/assets/79edb714-f9b6-4b02-a6b2-09f818892133" /><br>
+   - Query results<br>
+<img width="571" alt="Screenshot 2025-05-08 at 16 42 28" src="https://github.com/user-attachments/assets/dd745781-dfb3-49fb-898c-6f8095eb4350" /><br>
+<br>
 
