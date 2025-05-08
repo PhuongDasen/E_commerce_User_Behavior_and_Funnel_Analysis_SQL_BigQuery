@@ -64,4 +64,19 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
    - Query results<br>
 <img width="571" alt="Screenshot 2025-05-08 at 16 42 28" src="https://github.com/user-attachments/assets/dd745781-dfb3-49fb-898c-6f8095eb4350" /><br>
 <br>
+<b>Query 08: Calculate cohort map from pageview to add to cart to purchase in last 3 months. <br>
+ - SQL code<br>
+<img width="819" alt="Screenshot 2025-05-08 at 16 50 23" src="https://github.com/user-attachments/assets/abe7f49e-964d-4e88-94df-306774d1983c" /><br>
+- Query results<br>
+<img width="826" alt="Screenshot 2025-05-08 at 16 52 02" src="https://github.com/user-attachments/assets/7d44b8a0-76e1-41c7-9c49-e4109ca37255" /><br>
+<br>
+<h1>V. Conclusion</h1>
+<ul>
+  <li>In conclusion, my exploration of the eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed several intersting insights.</li>
+  <li>By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transactions, bounce rate, and revenue per traffic source,... which could inform future business decisions.</li>
+  <li>To ddep dive into the insights and key trends, the next step will visualize the data with some software like Power BI, Tableau,...</li>
+  <li>Overall, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.</li>
+</ul>
+
+ 
 
