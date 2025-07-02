@@ -36,17 +36,16 @@ Tool: SQL<br>
 ## [📁 Dataset Description & Data Structure](#📁-dataset-description--data-structure)  
 
 ### 📌 Data Source
-<h3>I. Introduction</h3>
+## I. Introduction
 This project contains an eCommerce dataset that I will explore using SQL on <a href="https://www.example.com">Google BigQuery</a><br>
 The Dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.<br>
 
-<h3>II. Requirements</h3>
-<ul>
-  <li><a href=https://cloud.google.com/>Google Cloud Platform account</a></li>
-  <li><a href=https://cloud.google.com](https://cloud.google.com/bigquery/docs/enable-transfer-service?hl=de#:~:text=Enable%20the%20BigQuery%20Data%20Transfer%20Service,-Before%20you%20can&text=Open%20the%20BigQuery%20Data%20Transfer,Click%20the%20ENABLE%20button.)/>Google BigQuery API</a> enable</li>
-  <li><a href=https://cloud.google.com/monitoring/mql/query-editor?hl=de/>SQL query editor</a> or IDE</li>
-
-<h3>III. Dataset Access</h3>
+## II. Requirements
+- [Google Cloud Platform account](https://cloud.google.com/)
+- [Enable BigQuery Transfer Service API](https://cloud.google.com/bigquery/docs/enable-transfer-service)
+- [SQL query editor](https://cloud.google.com/monitoring/mql/query-editor?hl=de) or IDE
+  
+## III. Dataset Access
 The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
   <ul>
     <li>Log in to your Google Cloud Platform account and create a new project.</li>
