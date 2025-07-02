@@ -5,17 +5,14 @@
 Author: Phuong Dasen<br>
 Tool: SQL<br>
 
-## 📑 Table of contents
-
-- [📌 Background & Overview](#📌-background--overview)  
-- [📁 Dataset Description & Data Structure](#📁-dataset-description--data-structure)  
-- [🧠 Design Thinking Process](#🧠-design-thinking-process)  
-- [📊 Key Insights & Visualizations](#📊-key-insights--visualizations)  
-- [🔍 Final Conclusion & Recommendations](#🔍-final-conclusion--recommendations)  
-
----
-## [📌 Background & Overview](#📌-background--overview) 
-
+## 📌 Table of Contents
+- [📌 Background & Overview](#-background--overview)
+- [📁 Dataset Description & Data Structure](#-dataset-description--data-structure)
+- [🧠 Design Thinking Process](#-design-thinking-process)
+- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+- [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
+  
+## 📌 Background & Overview
 ### Goal:
 - **📖 What is this project?**  
   - Analyze an e-commerce dataset using SQL in BigQuery to uncover patterns in user behavior, product interactions, and traffic source effectiveness.  
