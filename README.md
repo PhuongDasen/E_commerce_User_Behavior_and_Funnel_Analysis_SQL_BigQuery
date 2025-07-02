@@ -1,9 +1,9 @@
 <p align="center">
   <img src= "https://github.com/user-attachments/assets/35cc6b0e-31ac-4773-b4f5-75c8ff397b0e" width="90%">
 </p>
-<h1> 📊 Energie-Dashboard</h1>
-Data Hackdays | Kanton Bern | 05.2025<br>
-Tool: PowerBI<br>
+<h1> 📊 E-commerce User Behaviour and Funnel Analysis (SQL-BigQuery)</h1>
+Author: Phuong Dasen<br>
+Tool: SQL<br>
 
 ## 📑 Inhaltsverzeichnis
 
