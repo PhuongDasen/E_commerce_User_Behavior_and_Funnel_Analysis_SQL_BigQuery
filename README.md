@@ -5,27 +5,35 @@
 Author: Phuong Dasen<br>
 Tool: SQL<br>
 
-## 📑 Inhaltsverzeichnis
+## 📑 Table of contents
 
-- [📌 Hintergrund & Überblick](#hintergrund--überblick)  
-- [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
-- [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
-- [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
-- [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
+- [📌 Background & Overview](#📌-background--overview)  
+- [📁 Dataset Description & Data Structure](#📁-dataset-description--data-structure)  
+- [🧠 Design Thinking Process](#🧠-design-thinking-process)  
+- [📊 Key Insights & Visualizations](#📊-key-insights--visualizations)  
+- [🔍 Final Conclusion & Recommendations](#🔍-final-conclusion--recommendations)  
 
 ---
-## 📌 Hintergrund und Überblick 
+## [📌 Background & Overview](#📌-background--overview) 
 
-### Ziel:
-### 📖 Was ist dieses Projekt?
+### Goal:
+- **📖 What is this project?**  
+  - Analyze an e-commerce dataset using SQL in BigQuery to uncover patterns in user behavior, product interactions, and traffic source effectiveness.  
+  - Supports insights into engagement, purchasing behavior, and conversion metrics to guide business decisions.
 
-### 👤 Für wen ist dieses Projekt?
+- **👤 Who is this project for?**  
+  - Designed for marketing analysts, product managers, and business stakeholders who need data-driven insights.  
+  - Also supports data teams in building dashboards and tracking KPIs for performance monitoring.
 
-### ❓ Geschäftsfrage von dem Projekt?
+- **❓ What is the business question of the project?**  
+  - What user behaviors, traffic sources, and products lead to higher engagement and conversions?  
+  - How can the company improve its marketing funnel and product strategy using these insights?
 
-### 🎯 Projektergebnis: 
+- **🎯 What is the project outcome?**  
+  - Provides clear metrics and funnel analysis on top-performing products and effective user paths to conversion.  
+  - Enables strategic, data-driven decisions to boost acquisition, retention, and revenue.
 
-[📊 Datenstruktur und Datenbeziehungen](#datenstruktur-und-datenbeziehungen)
+## [📁 Dataset Description & Data Structure](#📁-dataset-description--data-structure)  
 
 ### 📌 Datenquellen:   
 - Quelle: 
