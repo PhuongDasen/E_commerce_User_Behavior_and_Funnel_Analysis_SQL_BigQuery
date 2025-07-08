@@ -115,20 +115,28 @@ Each purchasing user made approximately 1.19 transactions on average in July 201
 To determine how much revenue was generated per session among users who made purchases in July 2017.
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 11 15 54 AM" src="https://github.com/user-attachments/assets/e6d781cb-5165-4c37-bfc0-ef5d8eb045f6" /><br>
-	<h4>Analyse:</h4>
+<h4>Analyse:</h4>
 The average revenue per session was $8.97, based only on sessions with at least one purchase.
 
 <h3>🔍 Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 11 16 11 AM" src="https://github.com/user-attachments/assets/33e22dc9-4180-4b18-ac4f-a0f3e4ce6638" /><br>
+<h4>Purpose:</h4>
+To identify cross-purchased products among users who bought the “YouTube Men’s Vintage Henley” in July 2017.
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 11 16 26 AM" src="https://github.com/user-attachments/assets/3859b8d9-df0d-4cf5-a00e-755e4047f25a" /><br>
+<h4>Analyse:</h4>
+Customers also frequently bought Google Navy Speckled Pullover Hoodie (9 units) and YouTube Black Cuffed Beanie (8 units) along with the Henley.
 
 <h3>🔍Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017</h3><br>
 
 <img width="1000" alt="Screenshot 2025-07-02 at 11 17 10 AM" src="https://github.com/user-attachments/assets/2cf99014-34d5-47ac-bf88-ba0055109a4a" /><br>
+<h4>Purpose:</h4>
+To track user behavior through the conversion funnel across three stages: product view, add to cart, and purchase for Q1 2017.
 📤 Query Output <br>
 <img width="900" alt="Screenshot 2025-07-02 at 11 17 21 AM" src="https://github.com/user-attachments/assets/f1ed82f2-8b1d-47e8-a580-c8209f0d4351" />
+<h4>Analyse:</h4>
+The funnel shows strong drop-offs at each stage, with March having the highest conversion from view to purchase (~3.91%), indicating improved efficiency over the months.
 
 ## 🔎 Final Conclusion & Recommendations
 
