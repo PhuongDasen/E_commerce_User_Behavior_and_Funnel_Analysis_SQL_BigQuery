@@ -53,49 +53,49 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
   </ul>
   
 ## ⚒️Main Process 
-🔍 Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)<br>
+<h3>🔍 Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)</h3><br>
 
 ![Screenshot 2025-07-02 at 10 15 54 AM](https://github.com/user-attachments/assets/d74497fa-f0fc-433a-a710-b54bf0d6d782)<br>
 📤 Query Output <br>
 ![Screenshot 2025-07-02 at 10 15 45 AM](https://github.com/user-attachments/assets/7fe745da-a078-46f6-a39e-ab68d8f57a75)<br>
 
-🔍 Bounce rate per traffic source in July 2017<br>
+<h3>🔍 Bounce rate per traffic source in July 2017</h3>h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 10 48 27 AM" src="https://github.com/user-attachments/assets/f8b2b4dc-f70d-4d0b-bb69-9c3289301074" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 10 48 37 AM" src="https://github.com/user-attachments/assets/90f1680e-03d1-45fb-9596-fd8d5aef1d94" /><br>
 
-🔍  Revenue by traffic source by week, by month in June 2017<br>
+<h3>🔍  Revenue by traffic source by week, by month in June 2017</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 10 49 31 AM" src="https://github.com/user-attachments/assets/325df9d7-17be-47e5-a37a-13a014ac8ef2" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 10 49 46 AM" src="https://github.com/user-attachments/assets/2be72812-1e12-439f-8229-c3da1e06ed7f" /><br>
 
-🔍Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017<br>
+<h3>🔍Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 10 50 13 AM" src="https://github.com/user-attachments/assets/025c3b49-1eae-4243-8282-c88b2914ac68" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 10 50 39 AM" src="https://github.com/user-attachments/assets/58efd013-c7c7-4969-92ae-056fa72e5936" /><br>
 
-🔍 Average number of transactions per user that made a purchase in July 2017<br>
+<h3>🔍 Average number of transactions per user that made a purchase in July 2017</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 11 15 23 AM" src="https://github.com/user-attachments/assets/e11d0b9d-ba4d-4a9f-b0f2-0dd5f2d34384" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 10 50 39 AM" src="https://github.com/user-attachments/assets/58efd013-c7c7-4969-92ae-056fa72e5936" /><br>
 
-🔍 Average amount of money spent per session. Only include purchaser data in July 2017<br>
+<h3>🔍 Average amount of money spent per session. Only include purchaser data in July 2017</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 11 15 42 AM" src="https://github.com/user-attachments/assets/7282c299-b9c6-4f9d-af98-3be893990af8" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 11 15 54 AM" src="https://github.com/user-attachments/assets/e6d781cb-5165-4c37-bfc0-ef5d8eb045f6" /><br>
 
-🔍 Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered<br>
+<h3>🔍 Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered</h3><br>
 
 <img width="700" alt="Screenshot 2025-07-02 at 11 16 11 AM" src="https://github.com/user-attachments/assets/33e22dc9-4180-4b18-ac4f-a0f3e4ce6638" /><br>
 📤 Query Output <br>
 <img width="700" alt="Screenshot 2025-07-02 at 11 16 26 AM" src="https://github.com/user-attachments/assets/3859b8d9-df0d-4cf5-a00e-755e4047f25a" /><br>
 
-🔍Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017<br>
+<h3>🔍Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017</h3><br>
 
 <img width="1000" alt="Screenshot 2025-07-02 at 11 17 10 AM" src="https://github.com/user-attachments/assets/2cf99014-34d5-47ac-bf88-ba0055109a4a" /><br>
 📤 Query Output <br>
