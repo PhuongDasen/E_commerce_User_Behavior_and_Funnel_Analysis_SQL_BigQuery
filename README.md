@@ -138,28 +138,13 @@ To track user behavior through the conversion funnel across three stages: produc
 <h4>Analyse:</h4>
 The funnel shows strong drop-offs at each stage, with March having the highest conversion from view to purchase (~3.91%), indicating improved efficiency over the months.
 
-## 🔎 Final Conclusion & Recommendations
+## 🔎 Final Conclusion & Take Away
 
-### 📊 Insight 1: Traffic is increasing, but conversion rate stays low
-- Visits and pageviews increased from January to March 2017, but the number of transactions remains low.
-- ✅ **Recommendation:** Optimize product pages and checkout flow. Run A/B tests to identify friction points in the conversion funnel.
-
-### 🌐 Insight 2: High bounce rates from top traffic sources
-- Direct and organic traffic have high visit volumes but also high bounce rates.
-- 🔧 **Recommendation:** Improve landing page relevance for each source and add engaging CTAs (calls to action) to reduce bounce rates.
-
-### 💰 Insight 3: Most revenue comes from a few top sources
-- Revenue is heavily concentrated in sources like Google and YouTube in June 2017.
-- 📈 **Recommendation:** Allocate more marketing budget to high-performing channels and build targeted campaigns around them.
-
-### 🛒 Insight 4: A small set of products generate most of the revenue
-- Top-selling products contribute disproportionately to total revenue.
-- 🧲 **Recommendation:** Promote these top products via cross-selling, bundling, and featured listings on the homepage.
-
-### 📱 Insight 5: Mobile devices have high traffic but lower conversion
-- Mobile generates a large share of visits but underperforms in conversions compared to desktop.
-- 📱 **Recommendation:** Optimize the mobile user experience, especially load time, layout, and mobile-friendly checkout.
-
+* The project explored how users interact with an online store, such as analyzing monthly trends in visits, pageviews, and transactions — for example, March 2017 showed the highest number of purchases.
+* It revealed how different sources (like Google or YouTube) influence user behavior — for instance, YouTube brought fewer visitors but had the highest bounce rate, meaning users often left quickly.
+* By comparing purchasers and non-purchasers, it became clear that buyers viewed more pages per session — in July, buyers viewed an average of 6.6 pages while non-buyers viewed only 3.3.
+* A funnel analysis showed where users drop off before completing a purchase — for example, only a small percentage of users who viewed a product actually completed a transaction.
+* The project demonstrated how user data can be turned into clear, actionable insights — such as identifying that most revenue in June came directly from users rather than referrals or ads.
 
 
 
