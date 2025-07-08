@@ -145,6 +145,7 @@ The funnel shows strong drop-offs at each stage, with March having the highest c
 * By comparing purchasers and non-purchasers, it became clear that buyers viewed more pages per session — in July, buyers viewed an average of 6.6 pages while non-buyers viewed only 3.3.
 * A funnel analysis showed where users drop off before completing a purchase — for example, only a small percentage of users who viewed a product actually completed a transaction.
 * The project demonstrated how user data can be turned into clear, actionable insights — such as identifying that most revenue in June came directly from users rather than referrals or ads.
+## Recommendation: Focus on reducing bounce rate from high-volume sources (e.g. YouTube), personalize re-engagement strategies for non-purchasers, and optimize product pages to strengthen the conversion funnel.
 
 
 
